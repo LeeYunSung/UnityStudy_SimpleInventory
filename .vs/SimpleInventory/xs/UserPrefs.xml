@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FFC43644-8088-771E-0B67-903D79B479C5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Inventory.cs" Line="34" Column="14" />
+      <File FileName="Assets/Scripts/Item.cs" Line="12" Column="27" NotebookId="1" />
+      <File FileName="Assets/Scripts/Slot.cs" Line="22" Column="50" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0c01a9fd-6a83-4e54-8df6-5da11b6f2f52" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
