@@ -17,4 +17,4 @@
 4) transform.SetParent 함수를 통한 객체의 계층 이동
 
 ### - Screenshot
-
+![그림3](https://user-images.githubusercontent.com/32055099/114312771-c886a400-9b2e-11eb-8d4c-97a5182f4a80.png)
